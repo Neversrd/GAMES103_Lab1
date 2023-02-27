@@ -1,4 +1,4 @@
-# GAMES103 Lab1
+# [GAMES103](https://games-cn.org/games103/) Lab1
 ![SampelScene](./img/rigid_bunny.gif)
 
 This is a simple rigid body simulation. Two different methods are used to solve.
