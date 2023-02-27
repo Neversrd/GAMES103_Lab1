@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{CBD7C847-409E-005C-6835-35BCF7BD320F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Lab1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
