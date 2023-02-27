@@ -1,10 +1,10 @@
 # GAMES103 Lab2
 ![SampelScene](./img/rigid_bunny.gif)
 
-This is a simple rigid bunny simulation. Two different methods are used to solve.
+This is a simple rigid body simulation. Two different methods are used to solve.
 ## Instruction
 1. Clone this repo.
-2. Open the Lab1.uproject with Unreal Engine (4.26.0+).
+2. Open the ```Lab1.uproject``` with Unreal Engine (4.26.0+).
 3. Open the ```Lab1.umap``` or ```Lab1_ShapeMatching.umap```.
 4. Click ```Play``` button.
 5. Hit ```L``` on keyboard to cast the bunny and see it hits the walls.
